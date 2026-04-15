@@ -1,6 +1,4 @@
-# AI Customer Support Deployment Strategy and Data Improvement Schematic*
-
-**AI Customer Support Deployment Strategy and Data Improvement Schematic**
+# AI Customer Support Deployment Strategy and Data Improvement Schematic
 
 A case study presentation covering end-to-end strategy for deploying an AI-powered customer support agent in a precision medicine environment, paired with a physician health scoring framework that replaces blunt CRM labels with composite, data-driven risk tiers.
 
