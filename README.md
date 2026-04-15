@@ -8,13 +8,13 @@ A case study presentation covering end-to-end strategy for deploying an AI-power
 
 This project addresses two connected problems in customer success operations at a diagnostics organization where 40% of CS tickets are status inquiries with answers already available in internal systems.
 
-**Part 1 — AI Agent Lifecycle Management**
+**Part 1: AI Agent Lifecycle Management**
 Designed a retrieval-based AI agent with confidence-tiered routing (auto-reply, assisted draft, human fallback), a phased rollout from shadow mode through production, and a structured human feedback loop that turns every CS interaction into a labeled training signal. Includes a full Business Requirements Document (BRD) framework, sidecar UI spec, accuracy drift detection protocol, and KPI architecture covering deflection rate, automation accuracy, handle time, and cost-per-ticket.
 
-**Part 2 — CRM Data Improvement and Physician Health Scoring**
+**Part 2: CRM Data Improvement and Physician Health Scoring**
 Built a composite Health Tier framework (Healthy, Watch, At Risk, Critical) that replaces binary Active/Inactive CRM status by joining Salesforce CRM fields with lab database records. Defined four new KPIs (Order Activity Score, Engagement Score, CS Relationship Recency, Physician Health Tier) and specified the data architecture, join keys, derived fields, and dashboard filters the BI team needs to build the monitoring layer.
 
-**Part 3 — Physician Health Dashboard**
+**Part 3: Physician Health Dashboard**
 Designed a full dashboard mockup with KPI cards, a bubble scatter plot mapping contact gaps against order trends, regional contact heatmaps, a 12-month order trend line, and a priority action table sorted by risk tier with recommended next steps per physician.
 
 ## Key Concepts
